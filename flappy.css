@@ -2,6 +2,13 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 @font-face{
     font-family: 'Pixel';
     src:url('../fonts/Pixel.ttf')
